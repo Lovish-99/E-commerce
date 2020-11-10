@@ -1,0 +1,9 @@
+.page{background-color: black;}
+.col-md-3{padding-top: 10px;font-size: 17px;}
+h5{font-size: 35px;padding-top: 20px;color: chocolate;}
+.nn{padding-top: 30px;}
+a:hover{color: #e96969;}
+.ny:hover{color: black;}
+.btn{border: 2px solid goldenrod;border-radius: 25px;}
+.btn:hover{background-color: goldenrod;color: white;}
+a{color: white;}

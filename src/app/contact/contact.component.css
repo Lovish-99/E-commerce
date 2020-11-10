@@ -1,0 +1,16 @@
+#map{margin: 120px 0px 10px 20px;}
+.card{margin: 0px 193.6px 10px 193.6px;background-image: url('/assets/img/light.jpg');
+    box-shadow: 
+    inset 0 -3em 3em rgba(0,0,0,0.1), 
+          0 0  0 2px rgb(255,255,255),
+          0.3em 0.3em 1em rgba(0,0,0,0.3);}
+form{text-align: center;}
+.row{margin-left: 60px;}
+.text-center{margin: 15px 0px 30px 80px;}
+.col-md-6{margin-top: 10px;}
+.col-md-12{margin-top: 15px;}
+input{border-radius: 20px;}
+.btn{border-radius: 25px;font-size: 20px;}
+h2{text-align: center;}
+p:hover{color: #e96969;line-height: 2;}
+a{text-decoration: none;}
