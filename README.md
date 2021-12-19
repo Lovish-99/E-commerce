@@ -1,3 +1,5 @@
+#This E-Commerce web application is created Angular as a framework. It is non-responsive e-commerce web application.
+
 # ECommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
